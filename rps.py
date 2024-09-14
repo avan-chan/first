@@ -47,5 +47,3 @@ while playagain:
         print("\nThanks for playing!")
         playagain = False 
 
-$ brew install git
-
